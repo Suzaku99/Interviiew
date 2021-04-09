@@ -1,0 +1,13 @@
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+D:\Farm\Code\myApp\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+D:\Farm\Code\myApp\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
